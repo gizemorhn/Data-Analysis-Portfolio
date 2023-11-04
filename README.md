@@ -1,8 +1,9 @@
-# Data-Analysis-Portfolio
+# Gizem Orhan Data-Analysis-Portfolio
+## Portfolio Projects 
 
+In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 [RFM Analysis](https://github.com/gizemorhn/Portfolio-projects/blob/main/RFM_Analysis.ipynb)
-
 
 [Dealing With Outliers](https://github.com/gizemorhn/Portfolio-projects/blob/main/Dealing_With_Outliers.ipynb)
 
