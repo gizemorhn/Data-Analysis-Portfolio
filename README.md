@@ -28,4 +28,7 @@ Important variables used in the prediction can be seen.
 ### Cohort Analysis
 Code : [Cohort Analysis](https://github.com/gizemorhn/Portfolio-projects/blob/main/Cohort_Analysis.ipynb)
 
-Goal : 
+Goal : To analyze the behavioral data of customers of e-commerce company over time, and uncovers insights about the experiences of those customers, in order to guide companies on how to improve those experiences.
+
+<img width="448" alt="Ekran Alıntısı2" src="https://github.com/gizemorhn/Data-Analysis-Portfolio/assets/66029047/cd39c2d2-f504-4a38-8678-c164bf2a810b">
+
