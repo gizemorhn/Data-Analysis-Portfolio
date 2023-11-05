@@ -1,7 +1,7 @@
 # Gizem Orhan Data-Analysis-Portfolio
 ## Portfolio Projects 
 
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### RFM Analysis
 Code : [RFM Analysis](https://github.com/gizemorhn/Portfolio-projects/blob/main/RFM_Analysis.ipynb)
@@ -14,8 +14,15 @@ Goal : For an e-commerce company, to divide its customers into segments in order
 ### Dealing With Outliers
 Code : [Dealing With Outliers](https://github.com/gizemorhn/Portfolio-projects/blob/main/Dealing_With_Outliers.ipynb)
 
-Goal : In the dataset, there are numerical columns and my aim is to determine numerical columns automatically. After determining thresholds I removed the outliers from the dataset. 
+Goal : In the dataset, there are numerical columns and the aim is to determine numerical columns automatically. After determining thresholds, outliers were removed from the dataset. 
 
-[Diabetes Prediction with Machine Learning](https://github.com/gizemorhn/Portfolio-projects/blob/main/Diabetes_Prediction_with_Machine_Learning.ipynb)
+### Diabetes Prediction with Machine Learning
+Code : [Diabetes Prediction with Machine Learning](https://github.com/gizemorhn/Portfolio-projects/blob/main/Diabetes_Prediction_with_Machine_Learning.ipynb)
+
+Goal : Logistic Regression and Random Forest prediction methods were used to predict the probability of having diabetes.
+
+Important variables used in the prediction can be seen.
+
+<img width="378" alt="Ekran Alıntısı" src="https://github.com/gizemorhn/Data-Analysis-Portfolio/assets/66029047/5a814964-4d23-4d5a-a456-1dad0566548f">
 
 [Cohort Analysis](https://github.com/gizemorhn/Portfolio-projects/blob/main/Cohort_Analysis.ipynb)
