@@ -25,4 +25,7 @@ Important variables used in the prediction can be seen.
 
 <img width="378" alt="Ekran Alıntısı" src="https://github.com/gizemorhn/Data-Analysis-Portfolio/assets/66029047/5a814964-4d23-4d5a-a456-1dad0566548f">
 
-[Cohort Analysis](https://github.com/gizemorhn/Portfolio-projects/blob/main/Cohort_Analysis.ipynb)
+### Cohort Analysis
+Code : [Cohort Analysis](https://github.com/gizemorhn/Portfolio-projects/blob/main/Cohort_Analysis.ipynb)
+
+Goal : 
