@@ -1,4 +1,4 @@
-# Gizem Orhan Data-Analysis-Portfolio
+![image](https://github.com/gizemorhn/Data-Analysis-Portfolio/assets/66029047/0f03e74a-01df-4ed2-8139-f03e1f0c29b4)# Gizem Orhan Data-Analysis-Portfolio
 ## Portfolio Projects 
 
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
@@ -32,3 +32,8 @@ Goal : To analyze the transaction data of an e-commerce company's customers over
 
 <img width="448" alt="Ekran Alıntısı2" src="https://github.com/gizemorhn/Data-Analysis-Portfolio/assets/66029047/cd39c2d2-f504-4a38-8678-c164bf2a810b">
 
+### Time Series Forecasting
+Code: 
+
+Goal: 
+<img width="412" alt="Ekran Alıntısı3" src="https://github.com/gizemorhn/Data-Analysis-Portfolio/assets/66029047/6231dfd5-20be-4d0d-a75a-acb87098d507">
