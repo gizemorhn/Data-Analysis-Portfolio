@@ -32,7 +32,8 @@ Goal : To analyze the transaction data of an e-commerce company's customers over
 <img width="448" alt="Ekran Alıntısı2" src="https://github.com/gizemorhn/Data-Analysis-Portfolio/assets/66029047/cd39c2d2-f504-4a38-8678-c164bf2a810b">
 
 ### Time Series Forecasting
-Code: 
+Code: [Time Series Forecasting](https://github.com/gizemorhn/Portfolio-projects/blob/main/Time_Series_Forecasting.ipynb)
 
-Goal: 
+Goal: To make time series forecasting Atmospheric CO2 data using exponential smoothing. Hyperparameter optimization was conducted to determine the parameters.
+
 <img width="412" alt="Ekran Alıntısı3" src="https://github.com/gizemorhn/Data-Analysis-Portfolio/assets/66029047/6231dfd5-20be-4d0d-a75a-acb87098d507">
