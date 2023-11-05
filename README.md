@@ -1,4 +1,3 @@
-![image](https://github.com/gizemorhn/Data-Analysis-Portfolio/assets/66029047/0f03e74a-01df-4ed2-8139-f03e1f0c29b4)# Gizem Orhan Data-Analysis-Portfolio
 ## Portfolio Projects 
 
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
